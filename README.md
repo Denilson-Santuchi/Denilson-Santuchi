@@ -80,7 +80,7 @@
 <!-- Details Section-->
 <details align="center">
   <summary> <samp>&#9776; Read More</samp></summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=denilson-santuchi&show_icons=true&theme=dracula&locale =en" alt="denilson-santuchi" /></p>
    <br>
@@ -92,8 +92,8 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Hotmail -->
-        <a href="mailto:denilsonsantuchi@hotmail.com" target="_blank"><img alt="Hotmail"
-                src="https://findicons.com/files/icons/2786/windows_live_wave_4/256/hotmail.png">
+        <a href="mailto:denilsonsantuchi@hotmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/denilson-santuchi/" target="_blank"><img alt="Linkedin"
