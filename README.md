@@ -1,16 +1,115 @@
-<h1 align="center">Olá 👋, sou Denilson Santuchi</h1>
-<h3 align="center">Sou Engenheiro de Software recente em busca de oportunidades e colaboração em projetos relacionados ao desenvolvimento Front-End.</h3 >
+<!-- Intro  -->
+<h2 align="center">
+ <samp>
+   > Hey There! <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/hi.gif?raw=true" alt="hello" width=20 height=20 />
+ </samp>
+</h2>
 
-- 📫 Como entrar em contato comigo **denilsonsantuchi@hotmail.com**
+<!-- <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif /> -->
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin .com/in/denilson-santuchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/linked-in-alt.svg" alt="denilson-santuchi" height="30" width="40" /></a>
+<h3 align="center">
+ <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 /> 
+<samp>
+   I'm <b><a target="_blank" href="myPortifolio">Denilson Santuchi!</a></b>
+</samp>
+ <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
+</h3>
+
+<!-- Organisation  -->
+<p align="center">
+ <samp>
+    「 From Governador Valadares, Brazil 」
+   <br>
+    「 Front End Developer 」
+   <br>
+    「 I am recent Software Engineer looking for opportunities and collabaration in projects related to Front-End development. 」
+   <br>
+   <br>
+ </samp>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> < /a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height=" 40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en- US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href=" https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original .svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/ > </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs -original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40 "/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<!-- Programming Languages and Tools -->
+<h4 align="center">Languages and Tools:</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
+<p align="center">
+ <!-- HTML -->
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a>
+ <!-- Redux  -->
+ <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+ <!-- CSS  -->
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
+ <!-- Jest -->
+ <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+ <!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a>
+ </p>
+ <p align="center">
+ <!-- SASS -->
+ <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="git" width="40" height="40"/> </a>
+ <!-- JavaScript -->
+<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
+ <!--REACT -->
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
+ <!-- Linux -->
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ </p>
+ <p align="center">
+ <!-- VSCODE -->
+ <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
+ <!-- NODEJS -->
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+ <!-- GIT -->
+ <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
+ <!-- GITHUB -->
+ <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
+ </p>
+ <p align="center">
+ <!-- Docker -->
+ <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+ <!-- SQL -->
+ <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="sql" width="40" height="40"/> </a>
+ <!-- Insomnia -->
+ <a href="https://docs.insomnia.rest/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="sql" width="40" height="40"/> </a>
+ <!-- MYSQL Workbench -->
+ <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://camo.githubusercontent.com/dcc58b898f245508bf65e8a994403efefa9b38124dcfbb62a37443cbc0beb6d2/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6d7973716c2f6d7973716c5f504e4733362e706e67" alt="sql" width="40" height="40"/> </a>
+ <!-- Express -->
+ <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="sql" width="40" height="40"/> </a>
+</p>
+<br>
+<!-- Details Section-->
+<details align="center">
+  <summary> <samp>&#9776; Read More</samp></summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=denilson-santuchi&show_icons=true&theme=dracula&locale =en" alt="denilson-santuchi" /></p>
+   <br>
+   <br>
+   <!-- A Curiosity About Me -->
+     <samp> ⚡ Fun fact: I am a systems developer AND designer! </samp><a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
+  </p> 
+ <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Hotmail -->
+        <a href="mailto:denilsonsantuchi@hotmail.com" target="_blank"><img alt="Hotmail"
+                src="https://w7.pngwing.com/pngs/794/124/png-transparent-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-text.png">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/denilson-santuchi/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Whatsapp -->
+        <a href="https://whatsa.me/5533999711551/?t=Hello,%20Denilson!%20How%20is%20everything?%20I%27m%20contacting%20you%20for%20" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Whatsapp-53ac21?style=flat-square&logo=Whatsapp&logoColor=white">
+        </a>
+ 
+</details>
+<br>
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
