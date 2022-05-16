@@ -22,7 +22,8 @@
    <br>
     「 Front End Developer 」
    <br>
-    「 I am recent Software Engineer looking for opportunities and collabaration in projects related to Front-End development. 」
+    「 I am recent Software Engineer looking for opportunities and
+  collabaration in projects related to Front-End development. 」
    <br>
    <br>
  </samp>
@@ -92,7 +93,7 @@
         <p>Find me on</p>
         <!-- Hotmail -->
         <a href="mailto:denilsonsantuchi@hotmail.com" target="_blank"><img alt="Hotmail"
-                src="https://w7.pngwing.com/pngs/794/124/png-transparent-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-text.png">
+                src="https://findicons.com/files/icons/2786/windows_live_wave_4/256/hotmail.png">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/denilson-santuchi/" target="_blank"><img alt="Linkedin"
