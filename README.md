@@ -74,12 +74,14 @@
  <!-- MYSQL Workbench -->
  <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://camo.githubusercontent.com/dcc58b898f245508bf65e8a994403efefa9b38124dcfbb62a37443cbc0beb6d2/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f6d7973716c2f6d7973716c5f504e4733362e706e67" alt="sql" width="40" height="40"/> </a>
  <!-- Express -->
- <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="sql" width="40" height="40"/> </a>
+ <a href="https://expressjs.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="sql" width="40" height="40"/> </a>
 </p>
 <br>
 <!-- Details Section-->
 <details align="center">
   <summary> <samp>&#9776; Read More</samp></summary>
+ <br>
+ <br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=denilson-santuchi&show_icons=true&theme=dracula&locale =en" alt="denilson-santuchi" /></p>
