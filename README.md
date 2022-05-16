@@ -22,7 +22,7 @@
    <br>
     「 Front End Developer 」
    <br>
-    「 I am recent Software Engineer looking for opportunities and
+    「 I am recent Software Engineer looking for opportunities and <br>
   collabaration in projects related to Front-End development. 」
    <br>
    <br>
