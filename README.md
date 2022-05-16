@@ -113,6 +113,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻!"
+        "Hello Word!👨‍💻"
     </p>
 </samp>
