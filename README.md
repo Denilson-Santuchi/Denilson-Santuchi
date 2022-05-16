@@ -10,7 +10,7 @@
 <h3 align="center">
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 /> 
 <samp>
-   I'm <b><a target="_blank" href="myPortifolio">Denilson Santuchi!</a></b>
+   I'm <b><a target="_blank">Denilson Santuchi!</a></b>
 </samp>
  <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
 </h3>
