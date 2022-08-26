@@ -20,7 +20,7 @@
  <samp>
     「 From Governador Valadares, Brazil 」
    <br>
-    「 Front End Developer 」
+    「 Full-Stack Developer 」
    <br>
     「 I am recent Software Engineer looking for opportunities and <br>
   collabaration in projects related to Front-End development. 」
