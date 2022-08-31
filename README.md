@@ -74,7 +74,7 @@
  <!-- Express -->
  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="sql" width="40" height="40"/> </a>
  <!-- Mongo -->
- <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" alt="nosql" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/docs/" target="_blank"> <img src="https://flyclipart.com/thumb2/mongodb-atlas-hits-amazon-web-services-marketplace-499956.png" alt="nosql" width="40" height="40"/> </a>
 </p>
 <br>
 <!-- Details Section-->
