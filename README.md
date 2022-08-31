@@ -18,9 +18,9 @@
 <!-- Organisation  -->
 <p align="center">
  <samp>
-    「 From Governador Valadares, Brazil 」
-   <br>
     「 Full-Stack Developer 」
+   <br>
+    「 From Governador Valadares, Brazil 」
    <br>
     「 I am recent Software Engineer looking for opportunities and <br>
   collabaration in projects related to Front-End and Back-End development. 」
