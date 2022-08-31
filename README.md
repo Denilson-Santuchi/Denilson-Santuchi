@@ -87,8 +87,6 @@
  <br>
  <br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en&layout=compact" alt=" denilson-santuchi" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=denilson-santuchi&show_icons=true&theme=dracula&locale=en" alt="denilson-santuchi" /></p>
    <br>
    <br>
    <!-- A Curiosity About Me -->
