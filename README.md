@@ -42,9 +42,9 @@
 <!-- JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  </p>
- <!-- Redux  -->
- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <p align="center">
+  <!-- Redux  -->
+ <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <!--REACT -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
   <!-- NODEJS -->
