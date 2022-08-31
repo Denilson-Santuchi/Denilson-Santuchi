@@ -90,7 +90,7 @@
    <br>
    <br>
    <!-- A Curiosity About Me -->
-     <samp> ⚡ Curious fact: I am a software engineer wanting to see the world! </samp><a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
+     <samp> ⚡ Curious fact: I'm software engineer wanting to see the world! </samp><a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a>
   </p> 
  <br>
         <!-- Social Links -->
