@@ -41,6 +41,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a>
 <!-- JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
+ <!-- Typescript -->
+<a href="https://cdn-icons-png.flaticon.com/512/919/919832.png" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="typescript" width="40" height="40"/> </a>
  </p>
  <p align="center">
   <!-- Redux  -->
