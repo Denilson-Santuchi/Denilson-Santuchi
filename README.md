@@ -74,7 +74,7 @@
  <!-- Express -->
  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="sql" width="40" height="40"/> </a>
  <!-- Mongo -->
- <a href="![image](https://user-images.githubusercontent.com/88909288/187791569-6f5b71da-0918-4e69-9803-aa183f6aaa09.png)" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/88909288/187791617-4045205e-8ac4-4838-b80c-261c0166a5c2.png)" alt="nosql" width="40" height="40"/> </a>
+ <a href="![image](https://user-images.githubusercontent.com/88909288/187791569-6f5b71da-0918-4e69-9803-aa183f6aaa09.png)" target="_blank"> <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="nosql" width="40" height="40"/> </a>
 </p>
 <br>
 <!-- Details Section-->
