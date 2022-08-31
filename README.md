@@ -23,7 +23,7 @@
     「 Full-Stack Developer 」
    <br>
     「 I am recent Software Engineer looking for opportunities and <br>
-  collabaration in projects related to Front-End development. 」
+  collabaration in projects related to Front-End and Back-End development. 」
    <br>
    <br>
  </samp>
