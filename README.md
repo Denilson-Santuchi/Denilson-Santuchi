@@ -41,12 +41,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
  <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> </a>
+<!-- JavaScript -->
+<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  </p>
  <p align="center">
  <!-- NODEJS -->
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
- <!-- JavaScript -->
-<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  <!--REACT -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
  <!-- Linux -->
