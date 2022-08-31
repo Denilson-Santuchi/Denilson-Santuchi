@@ -56,11 +56,11 @@
  <!-- Jest -->
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  </p>
- <!-- JWT - JSON Web Token -->
- <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  <p align="center">
  <!-- VSCODE -->
  <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
+ <!-- JWT - JSON Web Token -->
+ <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  <!-- GIT -->
  <!-- Docker -->
  <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
