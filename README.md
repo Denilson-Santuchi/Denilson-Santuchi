@@ -66,7 +66,7 @@
  <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
  <!-- python -->
- <a href="https://www.python.org/" target="_blank"> <img src="[https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png](https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg)" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.python.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-16e1pn%2F&psig=AOvVaw2e5dkXq_-M4Ais66IWoYt7&ust=1666285782203000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKC59ffk7PoCFQAAAAAdAAAAABAE" alt="python" width="40" height="40"/> </a>
  </p>
  <p align="center">
  <!-- SQL -->
