@@ -57,8 +57,8 @@
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  </p>
  <p align="center">
- <!-- VSCODE -->
- <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
+ <!-- C# -->
+ <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" alt="vscode" width="40" height="40"/> </a>
  <!-- JWT - JSON Web Token -->
  <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
  <!-- GIT -->
