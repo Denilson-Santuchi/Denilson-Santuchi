@@ -59,8 +59,8 @@
  <p align="center">
  <!-- C# -->
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" alt="vscode" width="40" height="40"/> </a>
- <!-- JWT - JSON Web Token -->
- <a href="https://jwt.io/" target="_blank"> <img src="https://img.icons8.com/color/480/java-web-token.png" alt="sql" width="40" height="40"/> </a>
+ <!-- PHP -->
+ <a href="https://www.php.net/" target="_blank"> <img src="https://img2.gratispng.com/20180825/bks/kisspng-php5-programowanie-logo-jpeg-computer-icons-custom-helper-php-function-to-print-array-theric-5b817888c5f8c6.6870411415352116568109.jpg" alt="sql" width="40" height="40"/> </a>
  <!-- GIT -->
  <!-- Docker -->
  <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
