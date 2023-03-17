@@ -22,7 +22,7 @@
    <br>
     「 From Governador Valadares, Brazil 」
    <br>
-    「 I am recent Software Engineer looking for opportunities and <br>
+    「 I'm Software Engineer looking for opportunities and <br>
   collabaration in projects related to Front-End and Back-End development. 」
    <br>
    <br>
