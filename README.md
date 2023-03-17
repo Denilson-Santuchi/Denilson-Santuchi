@@ -54,7 +54,7 @@
  <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <!-- Jest -->
- <a href="https://jestjs.io" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png)" alt="jest" width="40" height="40"/> </a>
+ <a href="https://jestjs.io" target="_blank"> <img src="https://img1.gratispng.com/20180423/bze/kisspng-web-development-laravel-php-symfony-logo-5addbb5ef37a61.7094387115244808629973.jpg" alt="jest" width="40" height="40"/> </a>
  </p>
  <p align="center">
  <!-- C# -->
