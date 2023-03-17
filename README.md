@@ -53,8 +53,8 @@
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
  <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <!-- Jest -->
- <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="jest" width="40" height="40"/> </a>
+ <!-- laravel -->
+ <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="jest" width="40" height="40"/> </a>
  </p>
  <p align="center">
  <!-- C# -->
